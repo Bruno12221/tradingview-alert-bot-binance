@@ -1,2 +1,3 @@
 # tradingview-alert-bot-binance
-This bot uses tradingview alerts to execute trades on Binance
+This bot uses tradingview email alerts to execute trades on Binance
+
