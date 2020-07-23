@@ -1,7 +1,7 @@
 {
-    "name": "binance-tradingview-alert-bot-master",
-    "version": "0.1",
-    "description": "nodejs bot with mail_listener executing tradingview alerts on binance",
+    "name": "tradingview-alert-bont-binance",
+    "version": "0.2",
+    "description": "written in nodejs, executes trades on binance based on tradingview email alerts",
     "main": "index.js",
     "scripts": {
     "start": "node index.js",
@@ -9,9 +9,7 @@
     },
     "keywords": [
       "binance",
-      "tradingview",
-      "alert",
-      "bot"
+      "tradingview"
       
     ],
     "author": " 6487954399@protonmail.com ",
