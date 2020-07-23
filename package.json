@@ -1,5 +1,5 @@
 {
-    "name": "tradingview-alert-bont-binance",
+    "name": "tradingview-alert-bot-binance",
     "version": "0.2",
     "description": "written in nodejs, executes trades on binance based on tradingview email alerts",
     "main": "index.js",
